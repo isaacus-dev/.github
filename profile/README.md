@@ -1,4 +1,4 @@
-[**Isaacus**](https://isaacus.com/) is a legal artificial intelligence research company building specialized AI models for the legal industry.
+[**Isaacus**](https://isaacus.com/) is a legal artificial intelligence research company building specialized AI models for the legal technology industry.
 
 We operate the world’s first legal AI API — the [Isaacus API](https://docs.isaacus.com/welcome), a direct, programmatic interface to best-in-class legal AI capabilities.
 
