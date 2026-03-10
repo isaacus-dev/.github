@@ -1,6 +1,6 @@
 [**Isaacus**](https://isaacus.com/) is a legal AI research company building LLMs for the legal tech industry.
 
-Our solutions include [Kanon 2 Enricher](https://isaacus.com/blog/kanon-2-enricher), [Kanon 2 Embedder](https://isaacus.com/blog/introducing-kanon-2-embedder), the [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/blog/introducing-mleb), and [semchunk](https://github.com/isaacus-dev/semchunk).
+Our solutions include [Kanon 2 Enricher](https://isaacus.com/blog/kanon-2-enricher), [Kanon 2 Reranker](https://isaacus.com/blog/kanon-2-reranker), [Kanon 2 Embedder](https://isaacus.com/blog/introducing-kanon-2-embedder), the [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/blog/introducing-mleb), and [semchunk](https://github.com/isaacus-dev/semchunk).
 
 Our models can be accessed via our [online platform](https://docs.isaacus.com/welcome) or through self-hosted enterprise deployments.
 
