@@ -1,4 +1,4 @@
-Isaacus is an AI research company building legal superintelligence.
+[**Isaacus**](https://isaacus.com/) is an AI research company building legal superintelligence.
 
 We offer a suite of state-of-the-art [information retrieval](https://docs.isaacus.com/models/introduction#embedding), [classification](https://docs.isaacus.com/models/introduction#universal-classification), [extraction](https://docs.isaacus.com/models/introduction#extractive-question-answering), and [enrichment](https://docs.isaacus.com/models/introduction#enrichment) models that help supercharge legal AI applications.
 
