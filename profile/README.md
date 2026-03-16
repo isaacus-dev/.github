@@ -1,7 +1,7 @@
-[**Isaacus**](https://isaacus.com/) is a legal AI research company building LLMs for the legal tech industry.
+Isaacus is an AI research company building legal superintelligence.
 
-Our solutions include [Kanon 2 Enricher](https://isaacus.com/blog/kanon-2-enricher), [Kanon 2 Reranker](https://isaacus.com/blog/kanon-2-reranker), [Kanon 2 Embedder](https://isaacus.com/blog/introducing-kanon-2-embedder), the [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/blog/introducing-mleb), and [semchunk](https://github.com/isaacus-dev/semchunk).
+We offer a suite of state-of-the-art [information retrieval](https://docs.isaacus.com/models/introduction#embedding), [classification](https://docs.isaacus.com/models/introduction#universal-classification), [extraction](https://docs.isaacus.com/models/introduction#extractive-question-answering), and [enrichment](https://docs.isaacus.com/models/introduction#enrichment) models that help supercharge legal AI applications.
 
-Our models can be accessed via our [online platform](https://docs.isaacus.com/welcome) or through self-hosted enterprise deployments.
+As proud supporters of open research, we maintain popular open-source datasets and libraries such as the [Massive Legal Embedding Benchmark (MLEB)](https://arxiv.org/abs/2510.19365), [Legal RAG Bench](https://arxiv.org/abs/2603.01710), [Open Australian Legal Corpus](https://huggingface.co/datasets/isaacus/open-australian-legal-corpus), and [semchunk](https://github.com/isaacus-dev/semchunk).
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/isaacus/) and [Reddit](https://www.reddit.com/r/isaacus/) to say up-to-date on our latest news.
+Follow us on [LinkedIn](https://www.linkedin.com/company/isaacus/) to say up-to-date on our latest news.
